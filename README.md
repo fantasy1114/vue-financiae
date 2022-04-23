@@ -1,11 +1,11 @@
-![Logo of the project](https://github.com/firminoandre/financiae/blob/front-end/public/readme/logobanner.png)
+![Logo of the project](https://github.com/wholespace/vue-financiae/blob/front-end/public/readme/logobanner.png)
 
 
 ## Financiaê
 This is a project that aims to create a dashboard for the user to be able to organize their inputs and outputs. 📈
 
 ## Links
-  - Repository: https://github.com/firminoandre/financiae
+  - Repository: https://github.com/wholespace/vue-financiae
 
 ## Technologies 
 
@@ -48,28 +48,28 @@ Here are the technologies used in the front-end of the project
 
 ### 1 - When you enter the project, you will see the home page.
 
-![Homepage image](https://raw.githubusercontent.com/firminoandre/financiae/front-end/public/readme/home.png)
+![Homepage image](https://raw.githubusercontent.com/wholespace/vue-financiae/front-end/public/readme/home.png)
 
 ### 2 - Login screen if you already have a registered account.
 
-![Login](https://raw.githubusercontent.com/firminoandre/financiae/front-end/public/readme/login.png)
+![Login](https://raw.githubusercontent.com/wholespace/vue-financiae/front-end/public/readme/login.png)
 
 ### 3 - Or simply create your account.
 
-![Sign up](https://raw.githubusercontent.com/firminoandre/financiae/front-end/public/readme/cadastro.png)
+![Sign up](https://raw.githubusercontent.com/wholespace/vue-financiae/front-end/public/readme/cadastro.png)
 
 ### 4 - This is a dashboard!
 
-![Dashboard](https://raw.githubusercontent.com/firminoandre/financiae/front-end/public/readme/dash2.png)
+![Dashboard](https://raw.githubusercontent.com/wholespace/vue-financiae/front-end/public/readme/dash2.png)
 
 
 ### 5 - This is the part of your categories.
 
-![Dashboard](https://raw.githubusercontent.com/firminoandre/financiae/front-end/public/readme/categorias.png)
+![Dashboard](https://raw.githubusercontent.com/wholespace/vue-financiae/front-end/public/readme/categorias.png)
 
 ### 5 - This is edit modal of category.
 
-![Dashboard](https://raw.githubusercontent.com/firminoandre/financiae/front-end/public/readme/editModal.png)
+![Dashboard](https://raw.githubusercontent.com/wholespace/vue-financiae/front-end/public/readme/editModal.png)
 
 
 ## Features
